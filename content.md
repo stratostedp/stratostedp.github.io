@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Data sets"
+title: "Data sets used in STRATOS publications"
 permalink: /content/
 ---
 
+Click on a publication to show details on data access.
 
 
 <!-- Publication --> 
@@ -290,7 +291,7 @@ Prognosis</summary>
 <br>
 <!-- Publication --> 
 <details>
-  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of prediction models in the presence of comepting risks: a guide through modern methods</strong>
+  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of prediction models in the presence of competing risks: a guide through modern methods</strong>
   <br><br>
   <strong>Keywords:</strong> NA</summary>
   <br>

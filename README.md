@@ -6,8 +6,9 @@
 
 
 ## Information
-The high quality STRATOS publications use and analyse various datasets. This website should provide an easy overview of the datasets used for each publication, along with links to download datasets that are available.
+This website should provide an overview of the activities of STRATOS' Towards Excellent Data panel.
 
-Keep in mind that only publications that use data are listed here.
+For example, here we provide links to all datasets that have been used in STRATOS publications.
+
 
 

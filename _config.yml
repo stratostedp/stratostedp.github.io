@@ -1,12 +1,12 @@
 theme: minima
-title: STRATOS Datasets
-description: Information and download links to datasets used in STRATOS publications
+title: STRATOS Towards Excellent Data (TED) Panel
+description: Information about the TED Panel and download links to datasets used in STRATOS publications
 # Site navigation
 navbar_links:
-  - title: "About"
-    url: "/about/"   # Matches the permalink in about.md
-  - title: "Data sets"
-    url: "/content/" # Matches the permalink in content.md
   - title: "Introduction"
     url: "/information/" # Matches the permalink in index.md
-
+  - title: "Data sets"
+    url: "/content/" # Matches the permalink in content.md
+  - title: "About"
+    url: "/about/"   # Matches the permalink in about.md
+  
