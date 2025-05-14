@@ -11,4 +11,4 @@ This website hosts links to all open access data sets that were used in publicat
 
 Every STRATOS publication that analyzes a dataset is listed here, together with information on how to access the data if it is publicly available.
 
-<i>Last updated: 21-01-2025</i>
+<i>Last updated: 14-05-2025</i>
