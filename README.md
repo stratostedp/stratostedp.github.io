@@ -1,4 +1,4 @@
-<img src="Image/stratos_logo.png"/>
+<img src="Images/stratos_logo.png"/>
 
 
 
