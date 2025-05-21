@@ -1,0 +1,47 @@
+# theme: minima
+# title: STRATOS Towards Excellent Data (TED) Panel
+# description: Information about the TED Panel and download links to datasets used in STRATOS publications
+# # Site navigation
+# navbar_links:
+#   - title: "Introduction"
+#     url: "/information/" # Matches the permalink in index.md
+#   - title: "Data sets"
+#     url: "/content/" # Matches the permalink in content.md
+#   - title: "About"
+#     url: "/about/"   # Matches the permalink in about.md
+  
+
+
+project:
+  type: website
+  output-dir: docs
+
+
+execute:
+  freeze: true
+
+website:
+  title: "STRATOS TED: Towards Excellent Data"
+  site-url: https://stratostedp.github.io/
+  description: "Add description"
+  page-navigation: false
+
+  sidebar:
+    style: "docked"
+    background: light
+    search: true
+    collapse-level: 2
+    tools:
+      - icon: github
+        href: https://github.com/stratosida/
+    contents:
+      - index.qmd
+      - content.qmd
+      - about.qmd
+    logo: "Images/stratos_logo.png"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
