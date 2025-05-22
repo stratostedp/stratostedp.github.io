@@ -7,7 +7,7 @@ Click on a publication to show details on data access.
 
 <!-- Publication 16 --> 
 <details>
-  <summary><strong>Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M on behalf of TG2 and TG3 of the STRATOS initiative (2024): Regression without regrets –initial data analysis is a prerequisite for multivariable regression. BMC Med Res Methodol 24(178). https://doi.org/10.1186/s12874-024-02294-3 </strong>
+  <summary><strong>Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M on behalf of TG2 and TG3 of the STRATOS initiative (2024): Regression without regrets –initial data analysis is a prerequisite for multivariable regression. <em>BMC Med Res Methodol 24(178).</em> https://doi.org/10.1186/s12874-024-02294-3 </strong>
   <br><br>
   <strong>Keywords:</strong> Initial data analysis, IDA framework, Regression models, Data screening, Reporting, Variable selection, Functional form, Variable transformation, STRATOS Initiative</summary>
   <br>
@@ -23,7 +23,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 15 --> 
 <details>
-  <summary><strong>Boe LA, Shaw PA, Midthune D, Gustafson P, Kipnis V, Park E, Sotres-Alvarez D, Freedman L, on behalf of the Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2024): Issues in Implementing Regression Calibration Analyses. American Journal of Epidemiology, 192(8):1406–1414. https://doi.org/10.1093/aje/kwad098 </strong>
+  <summary><strong>Boe LA, Shaw PA, Midthune D, Gustafson P, Kipnis V, Park E, Sotres-Alvarez D, Freedman L, on behalf of the Measurement Error and Misclassification Topic Group (TG4) of the STRATOS Initiative (2024): Issues in Implementing Regression Calibration Analyses. <em>American Journal of Epidemiology, 192(8):1406–1414.</em> https://doi.org/10.1093/aje/kwad098 </strong>
   <br><br>
   <strong>Keywords:</strong> Berkson error, bias (epidemiology), calibration equation, measurement error, nutritional epidemiology, regression calibration, STRATOS initiative, validation studies</summary>
   <br>
@@ -37,7 +37,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 14 --> 
 <details>
-  <summary><strong>McLernon DJ, Giardiello D, Van Calster B, Wynants L, van Geloven N, van Smeden M, Therneau T, Steyerberg EW, topic groups 6 and 8 of the STRATOS Initiative (2023): Assessing performance and clinical usefulness in prediction models with survival outcomes: practical guidance for Cox proportional hazards models. Annals of Internal Medicine. DOI: https://doi.org/10.7326/M22-0844 </strong>
+  <summary><strong>McLernon DJ, Giardiello D, Van Calster B, Wynants L, van Geloven N, van Smeden M, Therneau T, Steyerberg EW, topic groups 6 and 8 of the STRATOS Initiative (2023): Assessing performance and clinical usefulness in prediction models with survival outcomes: practical guidance for Cox proportional hazards models. <em>Annals of Internal Medicine.</em> DOI: https://doi.org/10.7326/M22-0844 </strong>
   <br><br>
   <strong>Keywords:</strong> NA</summary>
   <br>
@@ -51,7 +51,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 13 --> 
 <details>
-  <summary><strong>Rahnenführer J, De Bin R, Benner A, Ambrogi F, Lusa L, Boulesteix AL, Migliavacca E, Binder H, Michiels S, Sauerbrei W, McShane L, for topic group “High-dimensional data” (TG9) of the STRATOS initiative (2023): Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges. BMC Medicine. DOI: https://doi.org/10.1186/s12916-023-02858-y </strong>
+  <summary><strong>Rahnenführer J, De Bin R, Benner A, Ambrogi F, Lusa L, Boulesteix AL, Migliavacca E, Binder H, Michiels S, Sauerbrei W, McShane L, for topic group “High-dimensional data” (TG9) of the STRATOS initiative (2023): Statistical analysis of high-dimensional biomedical data: a gentle introduction to analytical goals, common approaches and challenges. <em>BMC Medicine.</em> DOI: https://doi.org/10.1186/s12916-023-02858-y </strong>
   <br><br>
   <strong>Keywords:</strong> High-dimensional data, Omics data, STRATOS intiative, Analytical goals, Initial data analysis, Exploratory data analysis, Clustering, Multiple testing, Prediction</summary>
   <br>
@@ -116,7 +116,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 12 --> 
 <details>
-  <summary><strong>Little R.J., Carpenter J.R. and Lee K.J. (2022): A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation. Sociological Methods & Research short </strong>
+  <summary><strong>Little R.J., Carpenter J.R. and Lee K.J. (2022): A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation. <em>Sociological Methods & Research</em> </strong>
   <br><br>
   <strong>Keywords:</strong> incomplete data, imputation, missing data, weighting</summary>
   <br>
@@ -132,7 +132,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 11 --> 
 <details>
-  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of prediction models in the presence of competing risks: a guide through modern methods. BMJ. DOI: https://www.bmj.com/content/377/bmj-2021-069249 </strong>
+  <summary><strong>van Geloven N, Giardiello D, Bonneville EF, Teece L, Ramspek CL, van Smeden M, Snell KIE, van Calster B, Pohar-Perme M, Riley RD, Putter H, Steyerberg E, on behalf of the STRATOS initiative (2022): Validation of prediction models in the presence of competing risks: a guide through modern methods. <em>BMJ.</em> DOI: https://www.bmj.com/content/377/bmj-2021-069249 </strong>
   <br><br>
   <strong>Keywords:</strong> NA</summary>
   <br>
@@ -178,7 +178,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 8 --> 
 <details>
-  <summary><strong>Andersen PK, Perme MP, van Houwelingen HC, Cook RJ, Joly P, Martinussen T, Taylor JMG, Abrahamowicz M, Therneau TM for the STRATOS TG8 topic group (2020): Analysis of time-to-event for observational studies: Guidance to the use of intensity models. Statistics in Medicine. DOI: 10.1002/sim.8757</strong>
+  <summary><strong>Andersen PK, Perme MP, van Houwelingen HC, Cook RJ, Joly P, Martinussen T, Taylor JMG, Abrahamowicz M, Therneau TM for the STRATOS TG8 topic group (2020): Analysis of time-to-event for observational studies: Guidance to the use of intensity models. <em>Statistics in Medicine.</em> DOI: 10.1002/sim.8757</strong>
   <br><br>
   <strong>Keywords:</strong> censoring, Cox regression model, hazard function, immortal time bias, multistate model, prediction, STRATOS initiative, survival analysis, time-dependent covariates</summary>
   <br>
@@ -200,7 +200,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 7 --> 
 <details>
-  <summary><strong>Goetghebeur E, le Cessie S, De Stavola B, Moodie E, Waernbaum I on behalf of the topic group Causal Inference (TG7) of the STRATOS initiative (2020): Formulating causal questions and principled statistical answers. Statistics in Medicine. DOI: 10.1002/sim.8757 </strong>
+  <summary><strong>Goetghebeur E, le Cessie S, De Stavola B, Moodie E, Waernbaum I on behalf of the topic group Causal Inference (TG7) of the STRATOS initiative (2020): Formulating causal questions and principled statistical answers. <em>Statistics in Medicine.</em> DOI: 10.1002/sim.8757 </strong>
   <br><br>
   <strong>Keywords:</strong> causation, instrumental variable, inverse probability weighting, matching, potential outcomes, propensity score</summary>
   <br>
@@ -214,7 +214,7 @@ Click on a publication to show details on data access.
 <br>
 <!-- Publication 6 --> 
 <details>
-  <summary><strong>Keogh RH, Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Küchenhoff H, Tooze JA, Wallace M, Kipnis V, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1 - Basic theory and simple methods of adjustment. Statistics in Medicine. https://doi.org/10.1002/sim.8532 </strong>
+  <summary><strong>Keogh RH, Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Küchenhoff H, Tooze JA, Wallace M, Kipnis V, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 1 - Basic theory and simple methods of adjustment. <em>Statistics in Medicine.</em> https://doi.org/10.1002/sim.8532 </strong>
   <br><br>
   <strong>Keywords:</strong> Berkson error, Classical error, Differential error, Measurement error, Misclassification, Non-
 differential error, Regression calibration, Sample size, Simulation extrapolation, SIMEX</summary>
@@ -229,7 +229,7 @@ differential error, Regression calibration, Sample size, Simulation extrapolatio
 <br>
 <!-- Publication 5 --> 
 <details>
-  <summary><strong>Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Keogh RH, Kipnis V, Tooze JA, Wallace M, Küchenhoff H, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2 - More complex methods of adjustment and advanced topics. Statistics in Medicine. https://doi.org/10.1002/sim.8531 </strong>
+  <summary><strong>Shaw PA, Gustafson P, Carroll RJ, Deffner V, Dodd KW, Keogh RH, Kipnis V, Tooze JA, Wallace M, Küchenhoff H, Freedman L (2020): STRATOS guidance document on measurement error and misclassification of variables in observational epidemiology: Part 2 - More complex methods of adjustment and advanced topics. <em>Statistics in Medicine.</em> https://doi.org/10.1002/sim.8531 </strong>
   <br><br>
   <strong>Keywords:</strong> Bayesian methods, Bias analysis, Distribution estimates, Likelihood methods, Moment
 Reconstruction, Multiple imputation</summary>
@@ -244,7 +244,7 @@ Reconstruction, Multiple imputation</summary>
 <br>
 <!-- Publication 4 --> 
 <details>
-  <summary><strong>Huebner M, Vach W, le Cessie S, Schmidt CO, Lusa L on behalf of the Topic Group 'Initial Data Analysis' of the STRATOS Initiative (2020): Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. BMC Medical Research Methodology, 20(1), 1-10.</strong>
+  <summary><strong>Huebner M, Vach W, le Cessie S, Schmidt CO, Lusa L on behalf of the Topic Group 'Initial Data Analysis' of the STRATOS Initiative (2020): Hidden analyses: a review of reporting practice and recommendations for more transparent reporting of initial data analyses. <em>BMC Medical Research Methodology, 20(1), 1-10.</em></strong>
   <br><br>
   <strong>Keywords:</strong> Initial data analysis, Reporting, Observational studies, STRATOS initiative</summary>
   <br>
