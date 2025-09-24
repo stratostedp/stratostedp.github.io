@@ -5,7 +5,7 @@ title: "Data sets used in STRATOS publications"
 Click on a publication to show details on data access.
 
 
-<!-- Publication 15 --> 
+<!-- Publication 16 --> 
 <details>
   <summary><strong>Heinze G, Baillie M, Lusa L, Sauerbrei W, Schmidt CO, Harrell FE, Huebner M on behalf of TG2 and TG3 of the STRATOS initiative (2024): Regression without regrets –initial data analysis is a prerequisite for multivariable regression. <em>BMC Med Res Methodol 24(178).</em> https://doi.org/10.1186/s12874-024-02294-3 </strong>
   <br><br>
@@ -17,6 +17,24 @@ Click on a publication to show details on data access.
   <a href="https://zenodo.org/records/7554815" target="_blank">Dataset 1</a>
   <br>
   The Bacteremia Dataset. Further information is found in the link.
+  
+</details>
+
+<br>
+<!-- Publication 15 --> 
+<details>
+  <summary><strong>Lara Lusa, Cécile Proust-Lima, Carsten O. Schmidt, Katherine J. Lee, Saskia le Cessie, Mark Baillie, Frank Lawrence, Marianne Huebner, on behalf of TG3 of the STRATOS Initiative (2024): Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. <em>PLoS ONE 19(5): e0295726.</em> https://doi.org/10.1371/journal.pone.0295726 </strong>
+  <br><br>
+  <strong>Keywords:</strong>NA</summary>
+  <br>
+
+  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295726#sec001" target="_blank">Publication Link</a>
+  <br><br>
+  <a href="https://share-eric.eu/data/data-access" target="_blank">Dataset</a>
+  <br>
+  The link found in the publication. SHARE data found in this link is free and publicly available.
+  <br><br>
+  For guidance on how to work with SHARE data, reading <a href="https://www.mdpi.com/1660-4601/18/18/9684" target="_blank">this publication</a> by Lara Lusa and Marianne Huebner is recommended.
   
 </details>
 
