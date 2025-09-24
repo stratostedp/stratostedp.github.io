@@ -25,7 +25,7 @@ Click on a publication to show details on data access.
 <details>
   <summary><strong>Lara Lusa, Cécile Proust-Lima, Carsten O. Schmidt, Katherine J. Lee, Saskia le Cessie, Mark Baillie, Frank Lawrence, Marianne Huebner, on behalf of TG3 of the STRATOS Initiative (2024): Initial data analysis for longitudinal studies to build a solid foundation for reproducible analysis. <em>PLoS ONE 19(5): e0295726.</em> https://doi.org/10.1371/journal.pone.0295726 </strong>
   <br><br>
-  <strong>Keywords:</strong>NA</summary>
+  <strong>Keywords:</strong>Hand strength, Time measurement, Longitudinal studies, Data visualization, Physical activity, Statistical models, Statistical data, Reproducibility</summary>
   <br>
 
   <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295726#sec001" target="_blank">Publication Link</a>
